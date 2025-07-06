@@ -45,4 +45,4 @@ MIT License
 
 ## 🔗 More Information
 
-Visit [nuvaleo.ai/pids](https://nuvaleo.ai/pids) for project background or contact info@nuvaleo.ai for access to preprint documentation.
+Visit https://www.nuvaleoai.co.uk/pids for project background or contact marius.nicorescu@nuvaleoai.co.uk for access to preprint documentation.
