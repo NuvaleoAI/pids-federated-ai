@@ -1,0 +1,5 @@
+federated_learning:
+  num_clients: 5
+  local_epochs: 5
+  model: lstm
+  aggregation: weighted_average
